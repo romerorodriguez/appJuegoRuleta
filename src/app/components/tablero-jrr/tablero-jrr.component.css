@@ -1,0 +1,18 @@
+.contenedor {
+    display: flex;
+    justify-content: flex-end; /* Centra horizontalmente el contenido */
+    align-items: center; /* Centra verticalmente el contenido */
+    height: 90vh; /* Ajusta la altura al tamaño de la ventana */
+  }
+  
+.tablero {
+    width: 900px; /* Ajusta el ancho de tu tablero según sea necesario */
+    padding: 70px;
+}
+  
+.list-group-item {
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+}
+
